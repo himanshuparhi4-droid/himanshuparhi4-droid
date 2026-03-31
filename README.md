@@ -1,5 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Himanshu%20Sekhar%20Parhi&fontSize=35&fontColor=ffffff&animation=fadeIn" /><h1 align="center">Himanshu Sekhar Parhi</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=220&section=header&text=Himanshu%20Sekhar%20Parhi&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" /><h1 align="center">Himanshu Sekhar Parhi</h1>
 <h3 align="center">Data Analyst | Machine Learning</h3><p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analyst;Machine+Learning+Enthusiast;Building+Data+Driven+Solutions&center=true&width=500&height=45">
+</p><p align="center">
   <a href="https://linkedin.com/in/himanshu-sekhar-parhi">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -13,81 +15,88 @@
 
 About Me
 
-Data Analyst experienced in building end-to-end analytics and machine learning solutions. Proficient in data preprocessing, feature engineering, and predictive modeling on large-scale datasets.
+<table>
+<tr>
+<td width="30%">
+<img src="https://github.com/himanshuparhi4-droid.png" width="100%" />
+</td>
+<td>Data Analyst experienced in building end-to-end analytics and machine learning solutions.
 
-At Syllogistek Systems Pvt Ltd, developed data pipelines and applied clustering and regression techniques to extract meaningful insights and support data-driven decision making.
+- Strong in data preprocessing, feature engineering, and modeling
+- Built clustering and regression systems
+- Focused on real-world business impact
+- Passionate about turning data into decisions
 
-Driven to solve real-world problems by translating complex data into actionable business strategies.
+</td>
+</tr>
+</table>---
 
----
+Highlights
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Clustering-KMeans%20%7C%20DBSCAN%20%7C%20Agglomerative-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-Regression%20%7C%20Prediction-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Analysis-EDA%20%7C%20Visualization-green?style=for-the-badge"/>
+</p>---
 
 Tech Stack
 
 Languages
 
-""Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)" (https://www.python.org/)
-""SQL" (https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)" (https://en.wikipedia.org/wiki/SQL)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white"/>
+</p>Libraries & Frameworks
 
-Libraries & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+</p>Tools & Workflow
 
-""Pandas" (https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)" (https://pandas.pydata.org/)
-""NumPy" (https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)" (https://numpy.org/)
-""Scikit-Learn" (https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)" (https://scikit-learn.org/)
-""Matplotlib" (https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge)" (https://matplotlib.org/)
-""Seaborn" (https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)" (https://seaborn.pydata.org/)
-""Plotly" (https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)" (https://plotly.com/)
-
-Tools & Workflow
-
-""Power BI" (https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)" (https://powerbi.microsoft.com/)
-""Excel" (https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)" (https://www.microsoft.com/excel)
-""Jupyter" (https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)" (https://jupyter.org/)
-""Anaconda" (https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)" (https://www.anaconda.com/)
-
----
+<p>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
+</p>---
 
 Projects
 
 Live Selling Data Analysis
-
-""Python" (https://img.shields.io/badge/Python-Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white)" (https://github.com/himanshuparhi4-droid)
-""Machine Learning" (https://img.shields.io/badge/ML-Clustering-F7931E?style=for-the-badge)" (https://github.com/himanshuparhi4-droid)
-""PCA" (https://img.shields.io/badge/PCA-Visualization-6A5ACD?style=for-the-badge)" (https://github.com/himanshuparhi4-droid)
 
 - Applied clustering (KMeans, DBSCAN, Agglomerative)
 - Built engagement scoring model
 - Identified posting patterns and audience behavior
 - Generated actionable business insights
 
----
-
 Customer Segmentation
-
-""Python" (https://img.shields.io/badge/Python-Clustering-3776AB?style=for-the-badge&logo=python&logoColor=white)" (https://github.com/himanshuparhi4-droid)
-""Data Science" (https://img.shields.io/badge/Data-Segmentation-4CAF50?style=for-the-badge)" (https://github.com/himanshuparhi4-droid)
-""PCA" (https://img.shields.io/badge/PCA-Dimensionality-6A5ACD?style=for-the-badge)" (https://github.com/himanshuparhi4-droid)
 
 - Performed clustering using KMeans and DBSCAN
 - Visualized clusters using PCA
-- Derived insights for targeted marketing strategies
+- Derived marketing strategies
 
 ---
 
-GitHub Statistics
+GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himanshuparhi4-droid&show_icons=true&theme=default" />
-  <img src="https://streak-stats.demolab.com/?user=himanshuparhi4-droid&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=himanshuparhi4-droid&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=himanshuparhi4-droid&theme=tokyonight" />
 </p><p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshuparhi4-droid&layout=compact&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshuparhi4-droid&layout=compact&theme=tokyonight" />
 </p>---
 
-Contact
+Contribution Graph
 
-- LinkedIn: https://linkedin.com/in/himanshu-sekhar-parhi
-- Email: himanshuparhi4@gmail.com
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>---
 
----
+Dev Quote
 
-"Without data, you're just another person with an opinion."
-— W. Edwards Deming
+«"Without data, you're just another person with an opinion."
+— W. Edwards Deming»
