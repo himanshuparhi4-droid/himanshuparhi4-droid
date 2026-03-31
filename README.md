@@ -1,8 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=220&section=header&text=Himanshu%20Sekhar%20Parhi&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" /><h1 align="center">Himanshu Sekhar Parhi</h1>
 <h3 align="center">Data Analyst | Machine Learning</h3><p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analyst;Machine+Learning+Enthusiast;Building+Data+Driven+Solutions&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analyst;Machine+Learning+Engineer;Turning+Data+into+Business+Insights&center=true&width=500&height=45">
 </p><p align="center">
-  <a href="https://linkedin.com/in/himanshu-sekhar-parhi">
+  <a href="https://www.linkedin.com/in/himanshu-sekhar-parhi-4171b1306">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:himanshuparhi4@gmail.com">
@@ -11,21 +11,24 @@
   <a href="https://instagram.com/_him.anxhu_01">
     <img src="https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+</p><p align="center">
+  <a href="https://github.com/himanshuparhi4-droid/himanshuparhi4-droid/blob/main/HimanshuSekharParhiResume.pdf">
+    <img src="https://img.shields.io/badge/Download%20Resume-PDF-blue?style=for-the-badge"/>
+  </a>
 </p>---
 
 About Me
 
 <table>
 <tr>
-<td width="30%">
-<img src="https://github.com/himanshuparhi4-droid.png" width="100%" />
-</td>
-<td>Data Analyst experienced in building end-to-end analytics and machine learning solutions.
+<td width="35%" align="center"><img src="https://github.com/himanshuparhi4-droid.png" width="180"/></td><td>Data Analyst with hands-on experience in developing end-to-end analytics and machine learning solutions.
 
-- Strong in data preprocessing, feature engineering, and modeling
-- Built clustering and regression systems
-- Focused on real-world business impact
-- Passionate about turning data into decisions
+- Built pipelines on 10,000+ records (EDA, feature engineering, outlier handling)
+- Applied clustering, PCA, VIF, and regression models
+- Developed engagement prediction & segmentation models
+- Internship experience at Syllogistek Systems Pvt Ltd
+
+Focused on transforming complex data into actionable business strategies.
 
 </td>
 </tr>
@@ -60,32 +63,32 @@ Languages
 <p>
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
 </p>---
 
 Projects
 
-Live Selling Data Analysis
+Facebook Live Selling Engagement Analytics
 
-- Applied clustering (KMeans, DBSCAN, Agglomerative)
-- Built engagement scoring model
-- Identified posting patterns and audience behavior
-- Generated actionable business insights
+- Processed 10,000+ records using Pandas & NumPy
+- Applied PCA, clustering, and feature engineering
+- Built ML models (Linear, Ridge, Lasso, Random Forest, Gradient Boosting)
+- Delivered actionable business insights
 
-Customer Segmentation
+AWS Web Application Hosting
 
-- Performed clustering using KMeans and DBSCAN
-- Visualized clusters using PCA
-- Derived marketing strategies
+- Deployed full-stack application on EC2
+- Configured IAM roles and CloudWatch monitoring
+- Improved deployment efficiency and uptime
 
 ---
 
 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himanshuparhi4-droid&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=himanshuparhi4-droid&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=himanshuparhi4-droid&show_icons=true&theme=tokyonight&border_radius=10" />
+  <img src="https://streak-stats.demolab.com?user=himanshuparhi4-droid&theme=tokyonight&border_radius=10" />
 </p><p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshuparhi4-droid&layout=compact&theme=tokyonight" />
 </p>---
